@@ -2,7 +2,7 @@ This project simply connects windows to an arduino and triggers a pin to high at
 
 Hardware:
 - An Arduino (Or other controller that runs on Arduino, such as https://www.aliexpress.com/item/1005001621886380.html?spm=a2g0o.order_list.order_list_main.138.409718025JST52)
-- A Peristaltic Pump (https://www.aliexpress.com/item/1005005617915976.html?spm=a2g0o.order_list.order_list_main.73.409718025JST52)
+- A Peristaltic Pump (24v version) (https://www.aliexpress.com/item/1005008417425140.html?spm=a2g0o.productlist.main.1.434f2dd52xnbpv)
 - A PWM controller (https://www.aliexpress.com/item/4000002811175.html?spm=a2g0o.order_list.order_list_main.33.409718025JST52)
 - A 36W 24V Power supply (For 240V/EU: https://www.aliexpress.com/item/1005005595508452.html?spm=a2g0o.order_list.order_list_main.63.409718025JST52)
 - Enough foodsafe silicon tubing (ID 6mm x 9mm OD) to reach from your drinks bottle to your mouth (https://www.aliexpress.com/item/1005002185082384.html?spm=a2g0o.order_list.order_list_main.28.409718025JST52)
